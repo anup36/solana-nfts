@@ -1,0 +1,11 @@
+{
+        "name": "Test NFT",
+        "symbol": "T-NFT",
+        "uri": "https://dummy-url.com/",
+        "royalties": 5.5,
+        "description": "Lorem Ipsum Something Ate Lion Even Good Health",
+        "imgType":"image/png",
+        "attributes": [
+            { "trait_type": "Speed", "value": "Quick" }
+        ]
+}
